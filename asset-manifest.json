@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/min-bok/MerryNote/static/js/main.9c469fc6.js",
-    "static/js/453.980b1a0c.chunk.js": "/min-bok/MerryNote/static/js/453.980b1a0c.chunk.js",
-    "index.html": "/min-bok/MerryNote/index.html",
-    "main.9c469fc6.js.map": "/min-bok/MerryNote/static/js/main.9c469fc6.js.map",
-    "453.980b1a0c.chunk.js.map": "/min-bok/MerryNote/static/js/453.980b1a0c.chunk.js.map"
+    "main.js": "/MerryNote/static/js/main.5b07fd72.js",
+    "static/js/453.980b1a0c.chunk.js": "/MerryNote/static/js/453.980b1a0c.chunk.js",
+    "index.html": "/MerryNote/index.html",
+    "main.5b07fd72.js.map": "/MerryNote/static/js/main.5b07fd72.js.map",
+    "453.980b1a0c.chunk.js.map": "/MerryNote/static/js/453.980b1a0c.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.9c469fc6.js"
+    "static/js/main.5b07fd72.js"
   ]
 }
