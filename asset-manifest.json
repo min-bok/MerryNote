@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/min-bok/MerryNote.git/static/js/main.801f6318.js",
-    "static/js/453.980b1a0c.chunk.js": "/min-bok/MerryNote.git/static/js/453.980b1a0c.chunk.js",
-    "index.html": "/min-bok/MerryNote.git/index.html",
-    "main.801f6318.js.map": "/min-bok/MerryNote.git/static/js/main.801f6318.js.map",
-    "453.980b1a0c.chunk.js.map": "/min-bok/MerryNote.git/static/js/453.980b1a0c.chunk.js.map"
+    "main.js": "/min-bok/MerryNote/static/js/main.9c469fc6.js",
+    "static/js/453.980b1a0c.chunk.js": "/min-bok/MerryNote/static/js/453.980b1a0c.chunk.js",
+    "index.html": "/min-bok/MerryNote/index.html",
+    "main.9c469fc6.js.map": "/min-bok/MerryNote/static/js/main.9c469fc6.js.map",
+    "453.980b1a0c.chunk.js.map": "/min-bok/MerryNote/static/js/453.980b1a0c.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.801f6318.js"
+    "static/js/main.9c469fc6.js"
   ]
 }
