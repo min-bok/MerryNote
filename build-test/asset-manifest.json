@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/MerryNote/static/js/main.29364184.js",
+    "static/js/453.980b1a0c.chunk.js": "/MerryNote/static/js/453.980b1a0c.chunk.js",
+    "index.html": "/MerryNote/index.html",
+    "main.29364184.js.map": "/MerryNote/static/js/main.29364184.js.map",
+    "453.980b1a0c.chunk.js.map": "/MerryNote/static/js/453.980b1a0c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.29364184.js"
+  ]
+}

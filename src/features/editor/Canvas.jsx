@@ -1,8 +1,4 @@
-import { useEffect, useRef } from "react";
 import styled from "styled-components"
-
-const CANVAS_W = 452.635;
-const CANVAS_H = 638;
 
 export default function Canvas({ canvasRef }) {
 
